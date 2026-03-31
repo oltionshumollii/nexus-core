@@ -95,9 +95,27 @@ Edit text content in index.html to match your brand.
 <li>Lazy-loading ready structure</li>
 
 <li>No external images - pure CSS/JS graphics</li>
-<BR>
-**🤝 Contributing**
+<br>
+
+**🤝 Contributing**-
 This is a personal portfolio project. While not open for direct contributions, feedback and suggestions are welcome via GitHub Issues.
 
 **📄 License**
 This project is protected under a Custom Personal Use License. See the LICENSE.txt file for full details.
+📧 Contact
+Oltion Shumolli
+
+<li>📸 Instagram: @oltionshumolli_</li>
+
+<li>📧 Email: oltionshumolli.pc@gmail.com</li>
+
+<li>💻 GitHub: https://github.com/oltionshumollii</li>
+
+<li>🔗 Project Link: https://github.com/oltionshumollii/nexus-core </li>
+
+⭐ Show Your Support
+If you found this project helpful or inspiring, please give it a ⭐ on GitHub!
+
+This project is a demonstration of modern front-end development practices and is not intended for commercial use without authorization.
+
+© 2026 Oltion Shumolli. All rights reserved.
