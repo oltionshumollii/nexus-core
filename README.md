@@ -112,11 +112,11 @@ This project is protected under a Custom Personal Use License. See the LICENSE.t
 
 <li>**💻 GitHub**: https://github.com/oltionshumollii</li>
 
-<li>**🔗 Project Link**:https://oltionshumollii.github.io/nexus-core/ </li>
-
-⭐ Show Your Support
+<li>🔗 Project Link: https://oltionshumollii.github.io/nexus-core/ </li>
+<br>
+**⭐ Show Your Support**
 If you found this project helpful or inspiring, please give it a ⭐ on GitHub!
 
 This project is a demonstration of modern front-end development practices and is not intended for commercial use without authorization.
 
-© 2026 Oltion Shumolli. All rights reserved.
+**© 2026 Oltion Shumolli. All rights reserved.**
