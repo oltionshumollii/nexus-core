@@ -2,7 +2,7 @@
 
 An ultra-modern, visually stunning corporate landing page featuring a 3D animated background, glassmorphism design, and smooth animations. Built with pure HTML, CSS, JavaScript, Three.js, and anime.js.
 
-![Nexus Core Preview](https://via.placeholder.com/1200x630/05070a/00f2ff?text=Nexus+Core+Preview)
+![Nexus Core Preview](https://oltionshumollii.github.io/nexus-core/)
 
 ## ✨ Features
 
@@ -15,16 +15,16 @@ An ultra-modern, visually stunning corporate landing page featuring a 3D animate
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) *(Add your GitHub Pages link here)*
+[View Live Demo](https://oltionshumollii.github.io/nexus-core/) 
 
 ## 📁 Project Structure
 nexus-core/
-├── index.html # Main HTML structure
-├── style.css # All styling and responsive design
-├── script.js # Anime.js animations and interactivity
-├── three-background.js # Three.js 3D background module
-├── README.md # Project documentation
-└── LICENSE.txt # License information
+<li>── index.html # Main HTML structure</li>
+<li>── style.css # All styling and responsive design</li>
+<li>── script.js # Anime.js animations and interactivity</li>
+<li>── three-background.js # Three.js 3D background module</li>
+<li>── README.md # Project documentation</li>
+<li>── LICENSE.txt # License information</li>
 
 ## 🛠️ Technologies Used
 
@@ -102,16 +102,17 @@ This is a personal portfolio project. While not open for direct contributions, f
 
 **📄 License**
 This project is protected under a Custom Personal Use License. See the LICENSE.txt file for full details.
-📧 Contact
-Oltion Shumolli
 
-<li>📸 Instagram: @oltionshumolli_</li>
+**📧 Contact**
+<strong>Oltion Shumolli<strong>
 
-<li>📧 Email: oltionshumolli.pc@gmail.com</li>
+<li>**📸 Instagram**: @oltionshumolli_</li>
 
-<li>💻 GitHub: https://github.com/oltionshumollii</li>
+<li>**📧 Email**: oltionshumolli.pc@gmail.com</li>
 
-<li>🔗 Project Link: https://github.com/oltionshumollii/nexus-core </li>
+<li>**💻 GitHub**: https://github.com/oltionshumollii</li>
+
+<li>**🔗 Project Link**:https://oltionshumollii.github.io/nexus-core/ </li>
 
 ⭐ Show Your Support
 If you found this project helpful or inspiring, please give it a ⭐ on GitHub!
