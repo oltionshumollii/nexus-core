@@ -46,5 +46,58 @@ nexus-core/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/oltionshumollii/nexus-core.git '''
+git clone https://github.com/oltionshumollii/nexus-core.git 
+```
+2.**Navigate to the project folder**-
+```
+cd nexus-core
+```
+3.**Open in browser**-
+```
+Simply open index.html in any modern web browser (Chrome, Firefox, Safari, Edge recommended).
 
+No build tools or dependencies required - all libraries are loaded via CDN.
+```
+
+**🔧 Customization**
+**Colors**
+Modify the color variables in style.css:
+
+```css
+/* Main accent color */
+border-color: #00f2ff;
+background: linear-gradient(105deg, #00b4ff, #0077ff);
+```
+**3D Background**
+Adjust parameters in three-background.js:
+```
+Particle count: particleCount = 2200
+
+Camera position: camera.position.set(0, 2, 12)
+
+Animation speed: time += 0.012
+```
+**Content**
+Edit text content in index.html to match your brand.
+
+**📱 Responsive Breakpoints**-
+**Desktop:** 1300px+ (full experience)
+
+**Tablet**: 900px (adjusted typography and spacing)
+
+**Mobile:** 550px (stacked layout, smaller text)
+
+**⚡ Performance**
+<li>Lightweight Three.js scene with optimized particle count</li>
+
+<li>CSS transforms for smooth animations</li>
+
+<li>Lazy-loading ready structure</li>
+
+<li>No external images - pure CSS/JS graphics</li>
+<BR>
+**🤝 Contributing**
+This is a personal portfolio project. While not open for direct contributions, feedback and suggestions are welcome via GitHub Issues.
+
+**📄 License**
+This project is protected under a Custom Personal Use License. See the LICENSE.txt file for full details.
